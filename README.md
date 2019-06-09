@@ -1,6 +1,6 @@
 # pproc: simple parallel file processor
 
-`pproc` was written as an excercise of using threads in Rust.
+`pproc` was written as an excercise of using threads in Rust.  
 It is (currently) in no way to be used for serious purposes.
 
 ## Usage
